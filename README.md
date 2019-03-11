@@ -1,12 +1,10 @@
 # _Ping-Pong
 
-#### _{Brief description of application}, {Date of current version}_
-
 #### By _Lela Smith_
 
 ## Description
 
-_{This is a webpage that plays ping-pong with numbers divisible by 3 and 5 from the number inputted by the user.}_
+_This is a webpage that plays ping-pong with numbers divisible by 3 and 5 from the number inputted by the user._
 
 ## Secifications
 
@@ -18,17 +16,17 @@ _{This is a webpage that plays ping-pong with numbers divisible by 3 and 5 from 
 
 ## Setup/Installation Requirements
 
-_{Clone this repository: https://github.com/Leels/PingPong}_
+_Clone this repository: https://github.com/Leels/PingPong_
 
 ## Known Bugs
 
-_{None}_
+_None_
 
 ## Let me know if you have any problems!
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap, jQuery, JavaScript}_
+_HTML, CSS, Bootstrap, jQuery, JavaScript_
 
 
-Copyright (c) 2015 **_{Lela Smith}_**
+Copyright (c) 2015 **_Lela Smith_**
