@@ -1,3 +1,27 @@
 #result {
   display: none;
 }
+
+.heading{
+  padding:2%;
+  background-color:DarkOliveGreen;
+  text-align: center;
+  color: white;
+}
+
+.about{
+  background-color:OliveDrab;
+  padding-bottom: 500px
+}
+
+.body{
+  height: 500px;
+}
+
+img {
+  width: 40%;
+  height: auto;
+  float: right;
+  padding: 60px;
+
+}
