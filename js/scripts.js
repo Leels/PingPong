@@ -1,20 +1,20 @@
 // back-end javascript
 function pingPong(number) {
-        var input = [];
-        for (var index = 1; index <= number; index++) {
-            if (index % 15 === 0) {
-                input.push("pingpong")
-            } else if (index % 5 === 0) {
-                input.push("pong")
-            } else if (index % 3 === 0) {
-                input.push("ping")
-            } else {
-                input.push(index);
-            }
+  var input = [];
+  for (var index = 1; index <= number; index++) {
+    if (index % 15 === 0) {
+      input.push("ping-pong")
+    } else if (index % 5 === 0) {
+      input.push("pong")
+    } else if (index % 3 === 0) {
+      input.push("ping")
+    } else {
+      input.push(index);
+    }
 
-        };
-        return input;
-    };
+  };
+  return input;
+};
 
 // front-end javascript
 $(document).ready(function() {
@@ -26,5 +26,5 @@ $(document).ready(function() {
 
     $(".number").text(result);
     $("#result").show();
-     });
-   });
+  });
+});
